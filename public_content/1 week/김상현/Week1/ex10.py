@@ -13,4 +13,4 @@ for _ in range(T):
     if max>arr[i][1]:
       max=arr[i][1]
       cnt+=1
-  print(cnt)
+  print(cnt) 

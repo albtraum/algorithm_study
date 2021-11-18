@@ -13,7 +13,7 @@ def solution(progresses, speeds):
     if cnt!=0:
       arr.append(cnt)
       cnt=0
-    # 위에서 뽑은 개수를 넣어준다
+    # 위에서 뽑은 개수를 넣어준다 
   arr.remove(0)
   # sum을 위해 넣은 0을 제거해준다
   return arr
