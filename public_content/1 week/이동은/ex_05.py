@@ -3,14 +3,10 @@ import sys
 answer =0
 
 #strip 으로 \n 제거, 8칸이기 때문에 8 넣음 
-#board = [sys.stdin.readline().strip() for i in range(8)]
+board = [sys.stdin.readline().strip() for i in range(8)]
 #board = [line.rstrip('\n') for line in open('test.txt', 'r')]
-#백준 test용
-temp = '.'.join(eval('input(),'*4))
-temp2 = temp[2::3]
-print(temp)
-print(temp2)
-print(type(temp))
+#백준 txt est용
+
 # for i in range(len(board)):
 #     for j in range(len(board[0])):
 #         if ((i%2 ==0) and (j%2==0)) or ((i%2 ==1) and (j%2==1)):
