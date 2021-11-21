@@ -7,11 +7,11 @@ board = [sys.stdin.readline().strip() for i in range(8)]
 #board = [line.rstrip('\n') for line in open('test.txt', 'r')]
 #백준 txt est용
 
-# for i in range(len(board)):
-#     for j in range(len(board[0])):
-#         if ((i%2 ==0) and (j%2==0)) or ((i%2 ==1) and (j%2==1)):
-#             if board[i][j] == 'F':
-#                 answer+=1
+for i in range(len(board)):
+    for j in range(len(board[0])):
+        if ((i%2 ==0) and (j%2==0)) or ((i%2 ==1) and (j%2==1)):
+            if board[i][j] == 'F':
+                answer+=1
 
 print(answer)
 
