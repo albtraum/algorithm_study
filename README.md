@@ -1,8 +1,16 @@
 # algorithm_study
 ---
 <li> 참가 팀원 
+[동은](https://github.com/albtraum), 
+[재현](https://github.com/jackbae),
+[상현](https://github.com/sanghyeonsh),
+[해미](https://github.com/parkhaemi),
+[민규](https://github.com/MingyuKim-2933),
+[다은](https://github.com/qor4),
+[민정](https://github.com/ranief87)
 
-
+---
+  
 **January 2022**
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
