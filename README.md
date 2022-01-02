@@ -2,12 +2,13 @@
 ---
 <h3>참가 팀원</h3>
 
-[동은](https://github.com/albtraum) [재현](https://github.com/jackbae)
-[상현](https://github.com/sanghyeonsh)
-[해미](https://github.com/parkhaemi)
-[민규](https://github.com/MingyuKim-2933)
-[다은](https://github.com/qor4)
-[민정](https://github.com/ranief87)
+[동은](https://github.com/albtraum) <br>
+[재현](https://github.com/jackbae) <br>
+[상현](https://github.com/sanghyeonsh) <br>
+[해미](https://github.com/parkhaemi) <br>
+[민규](https://github.com/MingyuKim-2933) <br>
+[다은](https://github.com/qor4) <br>
+[민정](https://github.com/ranief87) <br>
 
 ---
   
