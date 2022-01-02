@@ -8,7 +8,10 @@
 <li> [민규](https://github.com/MingyuKim-2933)
 <li> [다은](https://github.com/qor4)
 <li> [민정](https://github.com/ranief87)
-[개근상](https://www.acmicpc.net/problem/1563)
+
+  
+  [개근상](https://www.acmicpc.net/problem/1563)
+  
 ---
   
 **January 2022**
