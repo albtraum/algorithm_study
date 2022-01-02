@@ -8,7 +8,6 @@
 [해미](https://github.com/parkhaemi) -> <b>실버 1</b> <br>
 [민규](https://github.com/MingyuKim-2933) -> <b>골드 5</b> <br>
 [다은](https://github.com/qor4) -> <b>골드 5</b> <br>
-[민정](https://github.com/ranief87) -> <b>미정</b> <br>
 
 ---
 
