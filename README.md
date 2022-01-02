@@ -1,6 +1,7 @@
 # algorithm_study
 ---
 <h3>참가 팀원</h3>
+[동은](https://github.com/albtraum)
 <li> [동은](https://github.com/albtraum)
 <li> [재현](https://github.com/jackbae)
 <li> [상현](https://github.com/sanghyeonsh)
