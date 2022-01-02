@@ -1,17 +1,14 @@
 # algorithm_study
 ---
 <h3>참가 팀원</h3>
-<li> [동은](https://github.com/albtraum)
-<li> [재현](https://github.com/jackbae)
-<li> [상현](https://github.com/sanghyeonsh)
-<li> [해미](https://github.com/parkhaemi)
-<li> [민규](https://github.com/MingyuKim-2933)
-<li> [다은](https://github.com/qor4)
-<li> [민정](https://github.com/ranief87)
 
-  
-  [개근상](https://www.acmicpc.net/problem/1563)
-  
+[동은](https://github.com/albtraum) [재현](https://github.com/jackbae)
+[상현](https://github.com/sanghyeonsh)
+[해미](https://github.com/parkhaemi)
+[민규](https://github.com/MingyuKim-2933)
+[다은](https://github.com/qor4)
+[민정](https://github.com/ranief87)
+
 ---
   
 **January 2022**
