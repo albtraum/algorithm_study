@@ -57,7 +57,7 @@ ex) [포도주시식](https://www.acmicpc.net/problem/2156) (S1/DP)
 |     |     |     |     |     |   1 |   2 |
 |     |     |     |     |     |  목표 설정   |  팀 구성 마감  |
 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |
-|  [이항 계수 2](https://www.acmicpc.net/problem/11051) (S1/수학)<br>[DFS와 BFS](https://www.acmicpc.net/problem/1260) (S2/BFS,DFS)<br> [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) (S5/브루트포스) <br>   |[좌표 압축](https://www.acmicpc.net/problem/18870) (S2/정렬) <br> [제로](https://www.acmicpc.net/problem/10773) (S4/스택) <br> [정수 삼각형](https://www.acmicpc.net/problem/1932) (S1/DP)   |     |     |     |     |     |  
+|  [이항 계수 2](https://www.acmicpc.net/problem/11051) (S1/수학)<br>[DFS와 BFS](https://www.acmicpc.net/problem/1260) (S2/BFS,DFS)<br> [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) (S5/브루트포스) <br>   |[좌표 압축](https://www.acmicpc.net/problem/18870) (S2/정렬) <br> [제로](https://www.acmicpc.net/problem/10773) (S4/스택) <br> [정수 삼각형](https://www.acmicpc.net/problem/1932) (S1/DP)   | [회의실 배정](https://www.acmicpc.net/problem/1931) (S2/정렬)<br> [연결 요소의 개수](https://www.acmicpc.net/problem/11724) (S2/BFS)<br> [방 번호](https://www.acmicpc.net/problem/1475) (S2/구현)    |     |     |     |     |  
 |  10 |  11 |  12 |  13 |  14 |  15 |  16 |
 |    <br> |     |     |     |     |     |     |  
 |  17 |  18 |  19 |  20 |  21 |  22 |  23 |
