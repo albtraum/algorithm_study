@@ -9,7 +9,8 @@
 [민규](https://github.com/MingyuKim-2933) -> <b>골드 5</b> <br>
 [다은](https://github.com/qor4) -> <b>골드 5</b> <br>
 
-
+<배재현> 유일한 목표달성!
+축하해주세요!
 
 ---
 
